@@ -18,7 +18,7 @@
 #celestial-form #constellations,
 #celestial-form #lines,
 #celestial-form #other,
-#celestial-form #download { display: block }
+#celestial-form #download { display: block !important; }
 
 #celestial-form input { vertical-align: 0px; }
 #celestial-form input[type='number'] { width:48px; height:18px; text-align:right; padding:0; }
